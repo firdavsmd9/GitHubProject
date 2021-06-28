@@ -1,4 +1,16 @@
 /**
+ *
+ * This project was cloned to local remote by Firdavs M.
+ * Directly Editing from IntelliJ
+ * Now Pushing back to GitHub
+ * 06.28.21
+ *
+ */
+
+
+
+
+/**
  * Abstract class that represents a generic Bank Account
   
  * Must implement BaseInterestRate interface to obtain base interest rate and set interest rate for
